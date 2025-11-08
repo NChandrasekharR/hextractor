@@ -1,8 +1,8 @@
 # Hextractor - Figma Color Extraction Plugin
 
-<img width="1104" height="685" alt="Screenshot 2025-11-08 at 11 27 06 PM" src="https://github.com/user-attachments/assets/ef1ce1a0-e21b-4654-9658-1dcb8c1ce300" />
-
 > **Transform any image into a professional color palette with delightful visual feedback and accessibility insights.**
+
+<img width="1104" height="685" alt="Screenshot 2025-11-08 at 11 27 06 PM" src="https://github.com/user-attachments/assets/ef1ce1a0-e21b-4654-9658-1dcb8c1ce300" />
 
 Hextractor is a Figma plugin that uses k-means clustering and particle animations to extract colors from images, generate perceptually uniform color scales, and save them as reusable Figma styles.
 
